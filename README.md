@@ -28,7 +28,11 @@ El código principal está en el archivo `.ino`.
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Cambio localmente -features/pushbutton en Local
+=======
+## Cambio localmente -features/pushbutton en Git Hub
+>>>>>>> 97c982416b8cc67fd7e91ded9d3638e6aea4bc47
 =======
 ## Cambio localmente -features/pushbutton en Git Hub
 >>>>>>> 97c982416b8cc67fd7e91ded9d3638e6aea4bc47
